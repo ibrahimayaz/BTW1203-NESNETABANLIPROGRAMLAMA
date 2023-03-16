@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\Bingöl Üniversitesi\\Nesne Tabanlı Programlama\\KaynakKod\\BTW1203-NESNETABANLIPROGRAMLAMA\\Hafta01\\Hafta01.csproj",
-      "projectName": "Hafta01",
-      "projectPath": "C:\\Users\\PC\\Desktop\\Bingöl Üniversitesi\\Nesne Tabanlı Programlama\\KaynakKod\\BTW1203-NESNETABANLIPROGRAMLAMA\\Hafta01\\Hafta01.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\Bingöl Üniversitesi\\Nesne Tabanlı Programlama\\KaynakKod\\BTW1203-NESNETABANLIPROGRAMLAMA\\Hafta03\\Hafta03.csproj",
+      "projectName": "Hafta03",
+      "projectPath": "C:\\Users\\PC\\Desktop\\Bingöl Üniversitesi\\Nesne Tabanlı Programlama\\KaynakKod\\BTW1203-NESNETABANLIPROGRAMLAMA\\Hafta03\\Hafta03.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\Bingöl Üniversitesi\\Nesne Tabanlı Programlama\\KaynakKod\\BTW1203-NESNETABANLIPROGRAMLAMA\\Hafta01\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\Bingöl Üniversitesi\\Nesne Tabanlı Programlama\\KaynakKod\\BTW1203-NESNETABANLIPROGRAMLAMA\\Hafta03\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

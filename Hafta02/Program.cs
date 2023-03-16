@@ -5,10 +5,19 @@
 
 // veriTipi degiskenAdi=alcağı_değer;
 
+// Değişken Tanımlama Kuralları
+/*
+- değişken ismi türkçe karakter içermemelidir.
+- değişken adı özel karakter ve boşluk içermemelidir. (_ alt tire hariç)
+- değişken adı c# özel ifadeleri içermemelidir.
+- değişken adı sayısal ifadelerle başlamamalıdır.
+- aynı isimde iki değişken olmamalıdır. Büyük küçük harf duyarlılığı vardır.
+*/
 
 //tam sayı değişkeni tanımlama
 //camelCase
 int tamSayi = 5;
+
 
 //Ondalıklı sayı için
 double ondalikliSayi = 5.0;
