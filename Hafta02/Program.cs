@@ -33,7 +33,7 @@ char karakter = 'E';
 //metinsel veri tipi
 
 string ad = "Ahmet5";
-string soyad = "YILMAZ";
+string soyad = "YILMAZZ";
 
 
 
