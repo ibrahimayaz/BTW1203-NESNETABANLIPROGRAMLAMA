@@ -136,7 +136,21 @@ switch (day)
 // while (i1 > 5);
 
 
+//0-10 arasında kaç tane çift sayı olduğunu bulan programı yazınız ?
+// bool durum=true;
+// int i=0;
+// int toplam=0;
+// while(durum){
+//     i++;
+//     if(i%2==0){
+//         toplam++;
+//     }
+//     if(i>10){
+//         durum=false;
+//     }
+// }
 
+// Console.WriteLine($"{toplam} adet çift sayı vardır.");
 
 
 
