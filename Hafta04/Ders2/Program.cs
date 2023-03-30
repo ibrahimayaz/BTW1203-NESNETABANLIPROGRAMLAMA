@@ -25,21 +25,24 @@ donuşTipi fonsiyonAdi(){
 //             Console.WriteLine(x+y);
 // }
 
-// Toplam(5,10);
+//  Toplam(5,10);
 // Toplam(25,100);
 
 
-//Varsayılan parametreli fonksiyondur. Aynı zamanda opsiyonel parametreli fonksiyondur.
+//Varsayılan opsiyonel parametreli fonksiyondur. 
 // static void Ulkeler(string ulke="Türkiye"){
 //     Console.WriteLine(ulke);
 // }
 
+// Ulkeler("Almanya");
+
+//Değer dönderen fonksiyon
 //double tipinde değer dönderen tek zorunlu parametreli fonksiyondur.
 // static double Karekok(int sayi){
 // return Math.Sqrt(sayi);
 // }
 
-// Console.WriteLine(Karekok(49));
+//  Console.WriteLine(Karekok(49));
 
 static bool KimseVarmi(string isim){
     if(isim.ToLower()=="mehmet"){
@@ -50,4 +53,6 @@ static bool KimseVarmi(string isim){
     }
 }
 
-Console.WriteLine(KimseVarmi("Mehmets"));
+Console.WriteLine(KimseVarmi("Mehmet"));
+Console.WriteLine(KimseVarmi("AHmet"));
+Console.WriteLine(KimseVarmi("Murat"));
