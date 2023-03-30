@@ -50,4 +50,4 @@ static bool KimseVarmi(string isim){
     }
 }
 
-Console.WriteLine(KimseVarmi("Mehmet"));
+Console.WriteLine(KimseVarmi("Mehmets"));
