@@ -58,15 +58,15 @@ for(ifade1; ifade2; ifade3){
 //     }
 // }
 
-string[] arabalar={"Toros","Volvo","Toyota","Toyota","Audi","Toyota"}; //Eleman Sayısı : 6 ,
-int sayac=0;
-while(true){
-    if(arabalar[sayac]=="Toyota"){
-        break;
-    }
-    Console.WriteLine(arabalar[sayac]);
-    sayac++;
-}
+// string[] arabalar={"Toros","Volvo","Toyota","Toyota","Audi","Toyota"}; //Eleman Sayısı : 6 ,
+// int sayac=0;
+// while(true){
+//     if(arabalar[sayac]=="Toyota"){
+//         break;
+//     }
+//     Console.WriteLine(arabalar[sayac]);
+//     sayac++;
+// }
 
 
 // string[] arabalar={"Toros","Toyota","Volvo","Toyota","Audi","Toyota"}; //Eleman Sayısı : 6 ,

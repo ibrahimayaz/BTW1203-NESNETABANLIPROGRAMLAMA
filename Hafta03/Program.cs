@@ -89,9 +89,9 @@ string lastName2 = name.Substring(2,2);
 int day = 10;
 switch (day) 
 {
-  case 1: // day==1 ? 
+  case 1: 
     Console.WriteLine("Monday");
-    break; // break ifadesi şartı kır veya çık demektir.
+    break; 
   case 2:
     Console.WriteLine("Tuesday");
     break;
@@ -110,7 +110,7 @@ switch (day)
   case 7:
     Console.WriteLine("Sunday");
     break;
-  default: // yukarıdaki şartlar sağlanmadığında çalışacak kod satırıdır.
+  default: 
     Console.WriteLine("Bunların dışında başka bir gün...");
     break;
     

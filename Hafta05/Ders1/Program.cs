@@ -4,8 +4,9 @@ internal class Program
 {
     //Overloading (Aşırı Yükleme)
     //Aynı isimde method(fonksiyon) tanımı yapılabilir ancak aşağıdaki kurallara uyulması gerekiyor.
-    //1- Method ismi aynı ise parametre sayısı farklı olabilir.
-    //2- Method ismi aynı ise parametrenin veri tipleri farklı olabilir.
+    //Method ismi aynı olmak kaydı ile parametre sayısı, parametre sırası veya parametrenin veri tipi farklı ise 
+    //aşırı yükleme ypamış oluruz.
+
 
 
 
