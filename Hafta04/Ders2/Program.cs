@@ -53,6 +53,15 @@ static bool KimseVarmi(string isim){
     }
 }
 
-Console.WriteLine(KimseVarmi("Mehmet"));
-Console.WriteLine(KimseVarmi("AHmet"));
-Console.WriteLine(KimseVarmi("Murat"));
+// Console.WriteLine(KimseVarmi("Mehmet"));
+// Console.WriteLine(KimseVarmi("AHmet"));
+// Console.WriteLine(KimseVarmi("Murat"));
+
+//İsimli parametreli fonksiyonlar
+//Eğer parametreli isimli bir şekilde çağırmak isterseniz tüm paramatrelerin isimlerinin girilmesi gerekir.
+//İsimli parametreli fonksiyonlar çağrılırken sırasız bir şekilde yazılabilir.
+static int Hesapla(int x, int y, int z){
+    return x+y+z;
+}
+
+Hesapla(z:5,y:7,x:6);

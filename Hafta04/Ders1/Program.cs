@@ -47,7 +47,6 @@ for(ifade1; ifade2; ifade3){
 //     }
 // }
 
-// string[] arabalar={"Toros","Toyota","Volvo","Toyota","Audi","Toyota"}; //Eleman Sayısı : 6 ,
 
 //BREAK: DÖNGÜYÜ KIRMA VE ÇIKMA
 
@@ -58,14 +57,16 @@ for(ifade1; ifade2; ifade3){
 //                 break;
 //     }
 // }
-// int sayac=0;
-// while(true){
-//     if(arabalar[sayac]=="Volvo"){
-//         Console.WriteLine(arabalar[sayac]);
-//         break;
-//     }
-//     sayac++;
-// }
+
+string[] arabalar={"Toros","Volvo","Toyota","Toyota","Audi","Toyota"}; //Eleman Sayısı : 6 ,
+int sayac=0;
+while(true){
+    if(arabalar[sayac]=="Toyota"){
+        break;
+    }
+    Console.WriteLine(arabalar[sayac]);
+    sayac++;
+}
 
 
 // string[] arabalar={"Toros","Toyota","Volvo","Toyota","Audi","Toyota"}; //Eleman Sayısı : 6 ,
@@ -108,18 +109,18 @@ for(ifade1; ifade2; ifade3){
 
 //Bir dizi tanımlandıktan sonra eğer arguman/değer ataması yapılmamış ise mutlaka ve mutlaka new anahtar cümlesiyle 
 //atama yapmanız gerekiyor.
-int[] plakalar;
-plakalar= new int[] {20,30,10,5};
+// int[] plakalar;
+// plakalar= new int[] {20,30,10,5};
 
-//Dizinin elemanını değiştirme
-plakalar[1]=13;
+// //Dizinin elemanını değiştirme
+// plakalar[1]=13;
 
-//Diziyi A-Z veya 0-9 doğru sıralama yapar.
-Array.Sort(plakalar);
+// //Diziyi A-Z veya 0-9 doğru sıralama yapar.
+// Array.Sort(plakalar);
 
-foreach(var p in plakalar){
-    Console.WriteLine(p);
-}
+// foreach(var p in plakalar){
+//     Console.WriteLine(p);
+// }
 
 
 

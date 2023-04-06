@@ -1,0 +1,5 @@
+C:\Users\PC\Desktop\Bingöl Üniversitesi\Nesne Tabanlı Programlama\KaynakKod\Hafta05\Ders1\obj\Debug\net7.0\Ders1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Bingöl Üniversitesi\Nesne Tabanlı Programlama\KaynakKod\Hafta05\Ders1\obj\Debug\net7.0\Ders1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Bingöl Üniversitesi\Nesne Tabanlı Programlama\KaynakKod\Hafta05\Ders1\obj\Debug\net7.0\Ders1.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Bingöl Üniversitesi\Nesne Tabanlı Programlama\KaynakKod\Hafta05\Ders1\obj\Debug\net7.0\Ders1.AssemblyInfo.cs
+C:\Users\PC\Desktop\Bingöl Üniversitesi\Nesne Tabanlı Programlama\KaynakKod\Hafta05\Ders1\obj\Debug\net7.0\Ders1.csproj.CoreCompileInputs.cache
