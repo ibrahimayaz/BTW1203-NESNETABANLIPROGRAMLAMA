@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Miras\Miras\bin\Debug\net6.0\Miras.exe
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Miras\Miras\bin\Debug\net6.0\Miras.deps.json
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Miras\Miras\bin\Debug\net6.0\Miras.runtimeconfig.json
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Miras\Miras\bin\Debug\net6.0\Miras.dll
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Miras\Miras\bin\Debug\net6.0\Miras.pdb
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Miras\Miras\obj\Debug\net6.0\Miras.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Miras\Miras\obj\Debug\net6.0\Miras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Miras\Miras\obj\Debug\net6.0\Miras.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Miras\Miras\obj\Debug\net6.0\Miras.AssemblyInfo.cs
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Miras\Miras\obj\Debug\net6.0\Miras.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Miras\Miras\obj\Debug\net6.0\Miras.dll
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Miras\Miras\obj\Debug\net6.0\refint\Miras.dll
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Miras\Miras\obj\Debug\net6.0\Miras.pdb
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Miras\Miras\obj\Debug\net6.0\Miras.genruntimeconfig.cache
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Miras\Miras\obj\Debug\net6.0\ref\Miras.dll

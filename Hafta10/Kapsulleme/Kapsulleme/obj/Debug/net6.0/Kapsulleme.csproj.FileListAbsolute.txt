@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Kapsulleme\Kapsulleme\bin\Debug\net6.0\Kapsulleme.exe
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Kapsulleme\Kapsulleme\bin\Debug\net6.0\Kapsulleme.deps.json
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Kapsulleme\Kapsulleme\bin\Debug\net6.0\Kapsulleme.runtimeconfig.json
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Kapsulleme\Kapsulleme\bin\Debug\net6.0\Kapsulleme.dll
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Kapsulleme\Kapsulleme\bin\Debug\net6.0\Kapsulleme.pdb
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Kapsulleme\Kapsulleme\obj\Debug\net6.0\Kapsulleme.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Kapsulleme\Kapsulleme\obj\Debug\net6.0\Kapsulleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Kapsulleme\Kapsulleme\obj\Debug\net6.0\Kapsulleme.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Kapsulleme\Kapsulleme\obj\Debug\net6.0\Kapsulleme.AssemblyInfo.cs
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Kapsulleme\Kapsulleme\obj\Debug\net6.0\Kapsulleme.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Kapsulleme\Kapsulleme\obj\Debug\net6.0\Kapsulleme.dll
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Kapsulleme\Kapsulleme\obj\Debug\net6.0\refint\Kapsulleme.dll
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Kapsulleme\Kapsulleme\obj\Debug\net6.0\Kapsulleme.pdb
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Kapsulleme\Kapsulleme\obj\Debug\net6.0\Kapsulleme.genruntimeconfig.cache
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta10\Kapsulleme\Kapsulleme\obj\Debug\net6.0\ref\Kapsulleme.dll
