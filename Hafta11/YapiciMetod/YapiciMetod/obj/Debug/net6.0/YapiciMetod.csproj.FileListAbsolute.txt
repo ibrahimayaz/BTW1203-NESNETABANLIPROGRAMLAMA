@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta11\YapiciMetod\YapiciMetod\obj\Debug\net6.0\YapiciMetod.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta11\YapiciMetod\YapiciMetod\obj\Debug\net6.0\YapiciMetod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta11\YapiciMetod\YapiciMetod\obj\Debug\net6.0\YapiciMetod.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta11\YapiciMetod\YapiciMetod\obj\Debug\net6.0\YapiciMetod.AssemblyInfo.cs
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta11\YapiciMetod\YapiciMetod\obj\Debug\net6.0\YapiciMetod.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta11\YapiciMetod\YapiciMetod\bin\Debug\net6.0\YapiciMetod.exe
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta11\YapiciMetod\YapiciMetod\bin\Debug\net6.0\YapiciMetod.deps.json
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta11\YapiciMetod\YapiciMetod\bin\Debug\net6.0\YapiciMetod.runtimeconfig.json
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta11\YapiciMetod\YapiciMetod\bin\Debug\net6.0\YapiciMetod.dll
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta11\YapiciMetod\YapiciMetod\bin\Debug\net6.0\YapiciMetod.pdb
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta11\YapiciMetod\YapiciMetod\obj\Debug\net6.0\YapiciMetod.dll
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta11\YapiciMetod\YapiciMetod\obj\Debug\net6.0\refint\YapiciMetod.dll
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta11\YapiciMetod\YapiciMetod\obj\Debug\net6.0\YapiciMetod.pdb
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta11\YapiciMetod\YapiciMetod\obj\Debug\net6.0\YapiciMetod.genruntimeconfig.cache
+C:\Users\PC\Desktop\BingolUniversity\Nesne Tabanlı Programlama\KaynakKod\Hafta11\YapiciMetod\YapiciMetod\obj\Debug\net6.0\ref\YapiciMetod.dll
