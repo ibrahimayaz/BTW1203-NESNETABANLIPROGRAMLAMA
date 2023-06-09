@@ -41,6 +41,19 @@ namespace Ders1
         }
 
 
+        public bool Ekle(int yas)
+        {
+            if (yas>=18)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+
 
     }
 }

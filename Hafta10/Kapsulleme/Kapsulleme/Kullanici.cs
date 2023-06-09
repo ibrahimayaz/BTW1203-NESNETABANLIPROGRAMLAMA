@@ -8,11 +8,13 @@ namespace Kapsulleme
 {
     public class Kullanici
     {
+        //Field (Alanlar)
         private string _ad;
         private string _soyad;
         private string _parola;
         private string _sonuc;
 
+        //Properties(Özellikler)
         public string Ad
         {
             get

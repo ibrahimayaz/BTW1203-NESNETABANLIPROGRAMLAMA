@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace Abstraction
 {
-    internal class Kopek
+    public class Kopek : Hayvan
     {
+        public override int Yas { get; set; }
+        public override char Cinsiyet { get; set; }
+
+        public override string Konus()
+        {
+            return "hav hav hav...";
+        }
     }
 }
